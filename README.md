@@ -20,3 +20,5 @@ Jia2
 5. 请确保服务器进程对部署目录可读写权限
 
 6. 部署时请将根目录下以及application/config 目录下.default结尾的文件复制一份去掉.default 并根据实际情况修改这几个配置文件
+
+7.test
